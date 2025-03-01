@@ -1,5 +1,4 @@
 # 1- Download and load the dataset:
-setwd("C:/Users/dell/OneDrive/Bureau/Coursera/Johns_Hopkins_university/C4_Exploratory Data Analysis/Semaine 1/Course_Project/ExData_Plotting1")
 fileurl <-"https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
 download.file(fileurl, destfile = "./projectdataset.zip")
 unzip("./projectdataset.zip")
